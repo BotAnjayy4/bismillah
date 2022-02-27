@@ -1,6 +1,6 @@
 exports.allmenu = (prefix) => {
 	return`Media Sosial 👾
-Instagram : @Fandyyy._
+Nama Doi: Adagaki Aki
 
 *👤 OWNER MENU*
 ⚘👾 ${prefix}chat [option]
