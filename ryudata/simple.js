@@ -17,7 +17,7 @@ exports.list = (pushname, ucapanWaktu, namabot) => {
 //MENU OWNER
 exports.sowner = (prefix) => {
 	return`Media Sosial 👾
-Instagram : @Fandyyy._
+Nama Doi: Adagaki Aki
 
 *👤 OWNER MENU*
 ⚘👾 ${prefix}chat [option]
@@ -40,7 +40,7 @@ Instagram : @Fandyyy._
 //MENU GRUP
 exports.sgrup = (prefix) => {
 	return`Media Sosial 👾
-Instagram : @Fandyyy._
+Nama Doi: Adagaki Aki
 
 *👥 GROUP MENU*
 ⚘👾 ${prefix}antilink
@@ -61,7 +61,7 @@ Instagram : @Fandyyy._
 //MENU DOWNLOAD
 exports.sdown = (prefix) => {
 	return`Media Sosial 👾
-Instagram : @Fandyyy._
+Nama Doi: Adagaki Aki
 
 *📦 DOWNLOAD MENU*
 ⚘👾 ${prefix}tiktoknowm [url]
@@ -80,7 +80,7 @@ Instagram : @Fandyyy._
 //MENU SEARCH
 exports.ssearch = (prefix) => {
 	return`Media Sosial 👾
-Instagram : @Fandyyy._
+Nama Doi: Adagaki Aki
 
 *🔎 SEARCH MENU*
 ⚘👾 ${prefix}pinterest [query]
@@ -97,7 +97,7 @@ Instagram : @Fandyyy._
 //MENU INFORMASI
 exports.sinfo = (prefix) => {
 	return`Media Sosial 👾
-Instagram : @Fandyyy._
+Nama Doi: Adagaki Aki
 
 *🗞️ INFORMASI MENU*
 ⚘👾 ${prefix}infogempa
@@ -109,7 +109,7 @@ Instagram : @Fandyyy._
 //MENU NULIS
 exports.snulis = (prefix) => {
 	return`Media Sosial 👾
-Instagram : @Fandyyy._
+Nama Doi: Adagaki Aki
 
 *✍️ NULIS MENU*
 ⚘👾 ${prefix}nulisbiasa
@@ -123,7 +123,7 @@ Instagram : @Fandyyy._
 //MENU ASUPAN
 exports.sasupan = (prefix) => {
 	return`Media Sosial 👾
-Instagram : @Fandyyy._
+Nama Doi: Adagaki Aki
 
 *👭 ASUPAN MENU*
 ⚘👾 ${prefix}asupanhijaber
@@ -139,7 +139,7 @@ Instagram : @Fandyyy._
 //MENU CECAN
 exports.scecan = (prefix) => {
 	return`Media Sosial 👾
-Instagram : @Fandyyy._
+Nama Doi: Adagaki Aki
 
 *👩 CECAN MENU*
 ⚘👾 ${prefix}china
@@ -155,7 +155,7 @@ Instagram : @Fandyyy._
 //CASE FUN MENU
 exports.sfun = (prefix) => {
 	return`Media Sosial 👾
-Instagram : @Fandyyy._
+Nama Doi: Adagaki Aki
 
 *🎮 FUN MENU*
 ⚘👾 ${prefix}truth
@@ -172,7 +172,7 @@ Instagram : @Fandyyy._
 //GAME MENU
 exports.sgame = (prefix) => {
 	return`Media Sosial 👾
-Instagram : @Fandyyy._
+Nama Doi: Adagaki Aki
 
 *🎰 GAME MENU*
 ⚘👾 ${prefix}tebak lagu
@@ -188,7 +188,7 @@ Instagram : @Fandyyy._
 //GAME MENU
 exports.srandomimg = (prefix) => {
 	return`Media Sosial 👾
-Instagram : @Fandyyy._
+Nama Doi: Adagaki Aki
 
 *🎡 RANDOM MENU*
 ⚘👾 ${prefix}darkjokes
@@ -210,7 +210,7 @@ Instagram : @Fandyyy._
 //MENU ANIME
 exports.sanime = (prefix) => {
 	return`Media Sosial 🌱
-IG : Fandyyy._
+Nama Doi: Adagaki Aki
 
 *⛩️ ANIME MENU*
 ⚘👾 ${prefix}quotesanime
@@ -251,7 +251,7 @@ IG : Fandyyy._
 //NSFW MENU
 exports.snsfw = (prefix) => {
 	return`Media Sosial 👾
-Instagram : @Fandyyy._
+Nama Doi: Adagaki Aki
 
 *🔞 NSFW MENU*
 ⚘👾 ${prefix}blowjob
@@ -265,7 +265,7 @@ Instagram : @Fandyyy._
 //MAKER MENU
 exports.smaker = (prefix) => {
 	return`Media Sosial 👾
-Instagram : @Fandyyy._
+Nama Doi: Adagaki Aki
 
 *👨‍🎨 MAKER MENU*
 ⚘👾 ${prefix}toimage
@@ -282,7 +282,7 @@ Instagram : @Fandyyy._
 //TEXTPRO MENU
 exports.stextpro = (prefix) => {
 	return`Media Sosial 👾
-Instagram : @Fandyyy._
+Nama Doi: Adagaki Aki
 
 *👨‍🎨 TEXTPRO MENU*
 ⚘👾 ${prefix}serti1 [teks]
@@ -306,7 +306,7 @@ Instagram : @Fandyyy._
 //OTHER MENU
 exports.sother = (prefix) => {
 	return`Media Sosial 👾
-Instagram : @Fandyyy._
+Nama Doi: Adagaki Aki
 
 *☕ OTHER MENU*
 ⚘👾 ${prefix}simi [teks]
