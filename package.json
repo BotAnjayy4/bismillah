@@ -1,14 +1,14 @@
 {
-  "name": "RyuBotz",
+  "name": "BukanBot",
   "version": "1.0.0",
-  "description": "RyuBotz Multi Device",
+  "description": "Saya Anak Pintar",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "Ryuuka Team",
+  "author": "Anak Takeran",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys-md": "github:adiwajshing/baileys",
