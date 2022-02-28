@@ -1,10 +1,10 @@
--
+exports.sewa = () => {
 	return`🇸 🇪 🇼 🇦  🇧 🇴 🇹 ❗
 
 ┏━━━━━━
 ┃𝗛𝗔𝗥𝗚𝗔 𝗦𝗘𝗪𝗔 :
-┃ *1 MINGGU : Rp 2.000*
-┃ *2 MINGGU: Rp 5.000*
+┃ *1 MINGGU : Rp 3.000*
+┃ *1 BULAN : Rp 6.000*
 ┃ *PERMANEN : Rp 10.000*
 ┗━━━━━━
 ┏━━━━━━
